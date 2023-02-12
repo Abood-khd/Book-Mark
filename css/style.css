@@ -1,0 +1,14 @@
+.line{
+  width: 100%;
+  height: 1px;
+  background-color: rgba(122, 120, 120, 0.421);
+}
+
+.main-card{
+  width: 95%;
+  background-color: #EEEEEE;
+}
+.result-inp{
+  width: 95% ;
+  background-color: #EEEEEE;
+}
